@@ -3,7 +3,9 @@ Hi, I'm Agniv Bhattacahrjee
 I'm a beginner developer currently pursuing my BTech in Artificial Intelligence and Machine Learning. I'm passionate about learning new technologies and working on projects that allow me to explore AI/ML concepts and applications.
 
 Tech Stack:
+
 -Languages:Python, C, HTML,JAVA,JAVASCRIPT
+
 -Tools:Git, VS CODE
 
 Currently learning: AI/ML algorithms, deep learning, data analysis
